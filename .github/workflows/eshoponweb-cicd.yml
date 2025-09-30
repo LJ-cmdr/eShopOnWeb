@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb
   LOCATION: eastus2
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 4af78cc6-295e-4a0e-b6d7-8ce6399540c9
+  SUBSCRIPTION-ID: Ignite-lod51175481
   WEBAPP-NAME: eshoponweb-webapp55128773
 
 
